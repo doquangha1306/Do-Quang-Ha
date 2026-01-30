@@ -1,0 +1,17 @@
+{
+    "name": "loq/lab5_mvc",
+    "autoload": {
+        "psr-4": {
+            "Loq\\Lab5Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "doquangha1306",
+            "email": "haminhphong11@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
